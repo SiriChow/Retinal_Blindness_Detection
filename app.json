@@ -1,0 +1,20 @@
+{
+  "name": "Diabetic Retinopathy Detection",
+  "description": "A web application for detecting diabetic retinopathy using deep learning",
+  "repository": "https://github.com/yourusername/Retinal_blindness_detection_Pytorch",
+  "keywords": ["python", "flask", "pytorch", "machine-learning", "healthcare"],
+  "env": {
+    "SECRET_KEY": {
+      "description": "A secret key for Flask application",
+      "generator": "secret"
+    }
+  },
+  "addons": [
+    "heroku-postgresql:hobby-dev"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}

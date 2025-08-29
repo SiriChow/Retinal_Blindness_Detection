@@ -31,12 +31,7 @@ I have only shown below the main layers of resnet and each of the 'layer1', 'lay
 
 ![mat](images/mat.png)    
 
-# Visualization of complete system :    
-![visual](images/vis.gif)    
-
-
-
- 
+   
  # Future Prospect :    
  * My next goal is to develop this into WebApp (probably using some light weight model as resnet models are heavy).   
  * Next goal will be using encryption techniques to achieve not only high accuracy but also high level of privacy in terms of differentially private basis and use technqiues such as Federated learning and Secure Multi party computation for privacy preserving deep learning classification.

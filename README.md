@@ -35,14 +35,6 @@ I have only shown below the main layers of resnet and each of the 'layer1', 'lay
 ![visual](images/vis.gif)    
 
 
-# Getting started :       
-[Click](https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch/blob/master/GettingStarted.md) here to get started locally on your system.
-
-## Some snaps :     
-![images/gui1.JPG](images/gui1.JPG)
-![images/gui2.JPG](images/gui2.JPG)
-![images/gui3.JPG](images/gui3.JPG)
-![images/sms.JPG](images/sms.JPG)       
 
  
  # Future Prospect :    
